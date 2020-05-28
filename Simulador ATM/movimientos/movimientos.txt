@@ -3,4 +3,4 @@
 2020-05-02,XXX,hormiga.lija.crema,120.00
 2020-05-02,XXX,isla.pez.arbol,250.00
 2020-05-03,XXX,lobo.luna.pasto,-135.00
-2020-05-03,XXX,solmontedelvalle,2000.00
+2020-05-03,XXX,sol.monte.valle,2000.00
